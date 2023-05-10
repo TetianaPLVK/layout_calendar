@@ -1,5 +1,5 @@
-$square-size: 200px;
-$square-gap: 3px;
+$square-size: 100px;
+$square-gap: 1px;
 $calendar-width: 7*$square-size+ 6*$square-gap;
 
 @mixin date-box ($size) {
